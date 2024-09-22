@@ -125,7 +125,7 @@ Remember: If you're not comfortable with these terms, please do not use this sof
 
 This server implementation is designed to work with our Unity-based multiplayer game. For the client-side implementation and the game itself, please refer to our Unity project repository:
 
-[Unity Multiplayer Game Project]((https://github.com/branxz07/FPS-Multiplayer-Unity-and-Docker.git))
+[Unity Multiplayer Game Project](https://github.com/branxz07/FPS-Multiplayer-Unity-and-Docker.git)
 
 The Unity project contains:
 - Client-side networking code
