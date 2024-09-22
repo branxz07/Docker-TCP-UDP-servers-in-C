@@ -26,7 +26,7 @@ The UDP server manages fast, connectionless communication. It's primarily used f
 - Real-time player movement
 - Non-critical, frequent updates
 
-## Setup Docekr and Instantiate the servers
+## Setup Docker and Instantiate the servers
 
  <!--- To set up and run the server:
 
