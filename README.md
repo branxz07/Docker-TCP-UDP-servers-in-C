@@ -28,14 +28,13 @@ The UDP server manages fast, connectionless communication. It's primarily used f
 
 ## Setup Docker and Instantiate the servers
 
- <!--- To set up and run the server:
 
 1. Clone this repository:
    ```
    git clone https://github.com/branxz07/Docker-TCP-UDP-servers-in-C.git
    ```
 
-2. Navigate to the desired server directory (TCP or UDP):
+ <!--- 2. Navigate to the desired server directory (TCP or UDP):
    ```
    cd TCP/server
    ```
@@ -54,7 +53,7 @@ The UDP server manages fast, connectionless communication. It's primarily used f
    ./server
    ```
 
-Repeat steps 2-4 for both TCP and UDP servers if you need to run both simultaneously. --!>
+Repeat steps 2-4 for both TCP and UDP servers if you need to run both simultaneously.
 
 ## Connecting to the Server
 
@@ -85,21 +84,14 @@ Replace `[host_port]` and `[container_port]` with the appropriate port numbers f
 
 This project was made possible through the collaborative efforts of the following individuals:
 
-1. [Your Name]
-   - Role: [Your primary role or contribution]
-   - GitHub: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+1. Brandon Avalos
+   - GitHub: [@Branxz07](https://github.com/branxz07)
 
-2. branxz
-   - Role: [branxz's primary role or contribution]
-   - GitHub: [@branxz](https://github.com/branxz)
+2. Yahwthani Morales
+   - GitHub: [@YahwthaniMG](https://github.com/YahwthaniMG)
 
-3. yhaw
-   - Role: [yhaw's primary role or contribution]
-   - GitHub: [@yhaw](https://github.com/yhaw)
-
-4. sebas
-   - Role: [sebas's primary role or contribution]
-   - GitHub: [@sebas](https://github.com/sebas)
+3. Sebastian Avilez
+   - GitHub: [@SebastianAz](https://github.com/0247473)
 
 We appreciate the hard work and dedication of each team member in bringing this project to life. Their diverse skills and perspectives were instrumental in creating this TCP and UDP server for our Unity multiplayer game.
 
