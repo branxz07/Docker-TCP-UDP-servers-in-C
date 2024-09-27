@@ -101,7 +101,7 @@ This software is released into the public domain. Anyone is free to use, modify,
 
 ## Disclaimer
 
-This software, a TCP and UDP server for a multiplayer game in Unity, is a collaborative project created by [Your Name], branxz, yhaw, and sebas. It is provided for free use under the following conditions:
+This software, a TCP and UDP server for a multiplayer game in Unity, is a collaborative project created by [@Branxz07](https://github.com/branxz07), [@YahwthaniMG](https://github.com/YahwthaniMG), and [@SebastianAz](https://github.com/0247473). It is provided for free use under the following conditions:
 
 1. FREE USE: This software is available for anyone to use, modify, distribute, or integrate into their own projects at no cost.
 
