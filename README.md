@@ -6,10 +6,10 @@ This repository contains the server-side implementation for a multiplayer game b
 
 The project is organized into two main folders:
 
-- `TCP/`: Contains the TCP server and client implementations
-- `UDP/`: Contains the UDP server and client implementations
+- `TCP/`: Contains the TCP server implementations
+- `UDP/`: Contains the UDP server  implementations
 
-Each folder includes both the server and client code for its respective protocol.
+Each folder includes the servercode for its respective protocol.
 
 ## How It Was Built
 
